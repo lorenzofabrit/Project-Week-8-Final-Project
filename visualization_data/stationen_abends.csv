@@ -1,0 +1,53 @@
+﻿line,order_of_points,station,latitude,longitude,mark
+62,1,Waidhof,47.423888,8.522763,1
+62,2,Schwandenholz,47.424018,8.520741,1
+62,3,Unteraffoltern,47.424246,8.511375,1
+62,4,Fronwald,47.422046,8.509977,1
+62,5,Bahnhof Affoltern,47.421692,8.507601,1
+62,6,Zehntenhausplatz,47.418997,8.507125,1
+62,7,Einfangstrasse,47.4157,8.513332,1
+62,8,Glaubtenstrasse,47.414694,8.51936,1
+62,9,Neuaffoltern,47.415693,8.5133,1
+62,10,Oberwiesenstrasse,47.419026,8.507103,1
+62,11,Regensbergbrücke,47.408835,8.539293,5
+62,12,Bahnhof Oerlikon,47.411644,8.544899,5
+62,13,Sternen Oerlikon,47.409973,8.546161,1
+62,14,Messe/Hallenstadion,47.411192,8.55003,1
+62,15,Hallenbad Oerlikon,47.410545,8.556205,1
+62,16,Riedgraben,47.410913,8.558394,1
+62,17,Saatlenstrasse,47.411074,8.562678,1
+62,18,Dreispitz,47.410797,8.568404,1
+62,19,Aubrücke,47.410971,8.571822,1
+62,20,Herzogenmühlestrasse,47.407693,8.572722,1
+62,21,Schwamendingerplatz,47.404797,8.57194,1
+2,1,Bahnhof Tiefenbrunnen,47.350817,8.561452,1
+2,2,Wildbachstrasse,47.353275,8.558821,1
+2,3,Fröhlichstrasse,47.355391,8.556945,1
+2,4,Höschgasse,47.358048,8.555063,1
+2,5,Feldeggstrasse,47.360165,8.552619,1
+2,6,Kreuzstrasse,47.36297,8.550397,1
+2,7, Opernhaus,47.365645,8.547686,1
+2,8,Bellevue,47.367343,8.545099,1
+2,9,Bürkliplatz,47.366507,8.541034,1
+2,10, Kantonalbank,47.368318,8.539976,1
+2,11,Paradeplatz,47.369907,8.538845,1
+2,12,Sihlstrasse,47.372422,8.53492,5
+2,13,Stauffacher,47.373752,8.529789,1
+2,14, Bezirksgebäude,47.374297,8.525997,1
+2,15,Kalkbreite/Bhf Wiedikon,47.374648,8.521513,1
+2,16, Lochergut,47.375579,8.517581,1
+2,17,Zypressenstrasse,47.376769,8.514258,1
+2,18,Albisriederplatz,47.378481,8.510318,5
+2,19,Letzigrund,47.38133,8.503756,5
+2,20,Freihofstrasse,47.383377,8.499814,1
+2,21,Kappeli,47.385303,8.495226,1
+2,22,Grimselstrasse,47.387132,8.49045,1
+2,23,Lindenplatz,47.387984,8.486362,1
+2,24,Bachmattstrasse,47.389218,8.483095,1
+2,25,Farbhof,47.391118,8.479484,1
+2,26,Micafil,47.393202,8.47467,1
+2,27,Mülligen,47.395796,8.467247,1
+2,28,Gasometerbrücke,47.397729,8.461029,1
+2,29,Wagonsfabrik,47.398646,8.454275,1
+2,30,Schlieren Zentrum Bahnhof,47.398129,8.448333,1
+2,31,Geissweid,47.398003,8.444355,1
