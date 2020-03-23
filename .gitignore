@@ -154,6 +154,6 @@ dmypy.json
 
 datacleaning_notes.ipynb
 raw_data/
-
+HALTESTELLEN.csvLINIE.csvreisende.csvTAGTYP.csv
 
 # End of https://www.gitignore.io/api/macos,python,jupyternotebooks
